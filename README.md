@@ -3,7 +3,9 @@
 <Project Overview>
 
 This project aims to predict whether a user of KKBOX, a music streaming platform, will churn or not. By accurately forecasting potential cancellations, businesses can implement targeted strategies to retain customers, enhance engagement, and boost revenue.
+
 ### The criteria of "churn" is no new valid service subscription within 30 days after the current membership expires.
+
 The project compares the performance of four popular machine learning models: Random Forest, Logistic Regression, SVM, and XGBoost. Each model is trained on both imbalanced and balanced data, and their prediction accuracy is tested on new data.
 
 <Dataset>
